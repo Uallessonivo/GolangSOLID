@@ -14,11 +14,11 @@ This repository provides examples and explanations of the SOLID principles appli
 
 Each SOLID principle is explained in detail within the repository. You can find separate folders for each principle, and within each folder, you'll find code examples along with explanations of how the principle is applied.
 
-- [SRP](/srp): Single Responsibility Principle
-- [OCP](/ocp): Open/Closed Principle
-- [LSP](/lsp): Liskov Substitution Principle
-- [ISP](/isp): Interface Segregation Principle
-- [DIP](/dip): Dependency Inversion Principle
+- [SRP]: Single Responsibility Principle
+- [OCP]: Open/Closed Principle
+- [LSP]: Liskov Substitution Principle
+- [ISP]: Interface Segregation Principle
+- [DIP]: Dependency Inversion Principle
 
 ## License
 
